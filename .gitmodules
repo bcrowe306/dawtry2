@@ -1,9 +1,6 @@
 [submodule "lib/LabSound"]
 	path = lib/LabSound
 	url = https://github.com/LabSound/LabSound.git
-[submodule "lib/--recursive"]
-	path = lib/--recursive
-	url = https://github.com/LabSound/LabSound.git
 [submodule "lib/rtmidi"]
 	path = lib/rtmidi
 	url = https://github.com/thestk/rtmidi.git
